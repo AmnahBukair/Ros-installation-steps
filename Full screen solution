@@ -1,6 +1,7 @@
 # How To make Full screen display in ubuntu?
 To make the disply Full screen press ctrl +f
 in the first time there will be black border and it is not really full screen.
+![Screenshot (248)](https://user-images.githubusercontent.com/66624381/87536056-202bd800-c6a1-11ea-9648-4f6e5a4d285e.png)
 
 to solve this problem: 
 Device >> Insert Guest Addition CD image
